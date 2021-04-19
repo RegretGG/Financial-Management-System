@@ -41,7 +41,6 @@ Aug 2020- Code is debugged and made error-proof using try & except blocks.
 
 
 ## Credits
-Autri Ilesh Banerjee
-
 Gautham Gopinadh
+Autri Ilesh Banerjee
 
