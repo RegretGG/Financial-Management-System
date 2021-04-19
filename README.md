@@ -28,6 +28,10 @@ pygame-
 ```bash
 pip install pygame
 ```
+mysql connector
+```bash
+pip install mysql.connector
+```
 
 ## Changelog 
 
