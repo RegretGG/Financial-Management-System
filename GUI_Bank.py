@@ -22,7 +22,7 @@ import subprocess
 subprocess.Popen('python interest.py')
 
 try:
-  mydb= my.connect(host='localhost',user='root',database='python_bank',password="gautham2004")
+  mydb= my.connect(host='localhost',user='root',database='python_bank',password="password")
   C=mydb.cursor()
 except:
   mydb =my.connect(host='localhost',user='root',password="gautham2004")
